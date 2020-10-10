@@ -17,14 +17,20 @@ nav:after{
   clear: both;
   display: table;
 }
-nav .logo{
+/* nav .logo{
   float: left;
   color: white;
   font-size: 27px;
   font-weight: 600;
   line-height: 70px;
   padding-left: 60px;
+} */
+
+.logo{
+  height: 60px;
+  width: 30px;
 }
+
 nav ul{
   float: right;
   margin-right: 40px;
